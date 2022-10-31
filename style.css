@@ -1,0 +1,39 @@
+* {
+    background-color: #e6dcdc;
+   
+}
+.intro {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+section>img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 40px;
+  position: absolute;
+  right: 100px;
+  top:30px ;
+  border: 6px solid burlywood;
+}
+section > p {
+  margin-top: 120px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;;
+}
+.title {
+  position: relative;
+  left: 30px;
+  top: 30px;
+font-weight: bold;
+font-size: 23px;
+}
+ul{
+  position: relative;
+ top: 40px;
+ font-size: 18px;
+ 
+}
+#career {
+  font-family: 'Zen Old Mincho', serif;
+}
